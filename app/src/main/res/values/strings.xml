@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">praktikum5giansonia</string>
+    <string name="textJudul">Mengenal Suara Binatang</string>
+    <string name="imageDeskripsi">Gambar</string>
+    <string name="textButton">Tes Suara</string>
+    <string name="textDeskripsi">Tes Suara</string>
+    <string name="textPidah">Pindah Ke Tampilan Grid</string>
+    <string name="textPidah2">Pindah Ke Tampilan List</string>
+</resources>
